@@ -1,0 +1,93 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-24T19:33:29.675Z",
+        "before": [
+          {
+            "output": [
+              "Sign in to myuhc started"
+            ],
+            "result": {
+              "duration": 2909699500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Sign in to myuhc",
+        "description": "",
+        "id": "test-unitedhealthcare-website;sign-in-to-myuhc",
+        "after": [
+          {
+            "output": [
+              "Sign in to myuhc PASSED"
+            ],
+            "result": {
+              "duration": 4236146200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 64289600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on healthcare website",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_is_on_healthcare_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 196094900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on sign in",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_click_on_sign_in()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 68574100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should see sign in to myuhc.come",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_should_see_sign_in_to_myuhc_come()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test"
+          }
+        ]
+      }
+    ],
+    "name": "Test UnitedHealthCare website",
+    "description": "",
+    "id": "test-unitedhealthcare-website",
+    "keyword": "Feature",
+    "uri": "classpath:features/Test.feature",
+    "tags": []
+  }
+]

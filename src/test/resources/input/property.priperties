@@ -1,0 +1,8 @@
+url = https://www.uhc.com/
+browser = chrome 
+buildVeersion = 1.0
+projectName = UnitedHealthCare
+platform = Windows
+branch = release/1.0
+environment = UAT
+title = Health insurance plans for individuals & families, employers, medicare | UnitedHealthcare

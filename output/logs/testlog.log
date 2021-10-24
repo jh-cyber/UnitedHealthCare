@@ -1,0 +1,26 @@
+2021-10-23 23:54:36,656 - logger_file -INFO - Sign in to myuhc Started
+2021-10-23 23:59:32,205 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 00:03:12,542 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 00:03:16,165 - logger_file -INFO - Sign in to myuhc UNDEFINED
+2021-10-24 00:05:33,749 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 00:05:36,852 - logger_file -INFO - Sign in to myuhc PENDING
+2021-10-24 01:09:22,649 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 01:09:29,965 - logger_file -INFO - Sign in to myuhc FAILED
+2021-10-24 01:11:51,687 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 01:11:58,629 - logger_file -INFO - Sign in to myuhc FAILED
+2021-10-24 15:26:05,450 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 15:26:07,113 - logger_file -INFO - Sign in to myuhc FAILED
+2021-10-24 15:27:31,089 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 15:27:38,158 - logger_file -INFO - Sign in to myuhc FAILED
+2021-10-24 15:28:39,751 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 15:28:46,797 - logger_file -INFO - Sign in to myuhc FAILED
+2021-10-24 15:31:43,637 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 15:31:46,374 - logger_file -INFO - Health insurance plans for individuals & families, employers, medicare | UnitedHealthcareis equal toHealth insurance plans for individuals & families, employers, medicare | UnitedHealthcare
+2021-10-24 15:31:46,376 - logger_file -INFO - user click on signIn
+2021-10-24 15:31:46,650 - logger_file -INFO - user should see sign in to myuhc
+2021-10-24 15:31:50,893 - logger_file -INFO - Sign in to myuhc PASSED
+2021-10-24 15:33:29,819 - logger_file -INFO - Sign in to myuhc Started
+2021-10-24 15:33:32,729 - logger_file -INFO - Health insurance plans for individuals & families, employers, medicare | UnitedHealthcareis equal toHealth insurance plans for individuals & families, employers, medicare | UnitedHealthcare
+2021-10-24 15:33:32,732 - logger_file -INFO - user click on signIn
+2021-10-24 15:33:32,998 - logger_file -INFO - user should see sign in to myuhc
+2021-10-24 15:33:37,235 - logger_file -INFO - Sign in to myuhc PASSED

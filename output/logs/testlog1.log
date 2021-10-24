@@ -1,0 +1,26 @@
+2021-10-23 23:54:36,656 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-23 23:59:32,205 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 00:03:12,542 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 00:03:16,165 [main] INFO logger_file - Sign in to myuhc UNDEFINED
+2021-10-24 00:05:33,749 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 00:05:36,852 [main] INFO logger_file - Sign in to myuhc PENDING
+2021-10-24 01:09:22,649 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 01:09:29,965 [main] INFO logger_file - Sign in to myuhc FAILED
+2021-10-24 01:11:51,687 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 01:11:58,629 [main] INFO logger_file - Sign in to myuhc FAILED
+2021-10-24 15:26:05,450 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 15:26:07,113 [main] INFO logger_file - Sign in to myuhc FAILED
+2021-10-24 15:27:31,089 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 15:27:38,158 [main] INFO logger_file - Sign in to myuhc FAILED
+2021-10-24 15:28:39,751 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 15:28:46,797 [main] INFO logger_file - Sign in to myuhc FAILED
+2021-10-24 15:31:43,637 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 15:31:46,374 [main] INFO logger_file - Health insurance plans for individuals & families, employers, medicare | UnitedHealthcareis equal toHealth insurance plans for individuals & families, employers, medicare | UnitedHealthcare
+2021-10-24 15:31:46,376 [main] INFO logger_file - user click on signIn
+2021-10-24 15:31:46,650 [main] INFO logger_file - user should see sign in to myuhc
+2021-10-24 15:31:50,893 [main] INFO logger_file - Sign in to myuhc PASSED
+2021-10-24 15:33:29,819 [main] INFO logger_file - Sign in to myuhc Started
+2021-10-24 15:33:32,729 [main] INFO logger_file - Health insurance plans for individuals & families, employers, medicare | UnitedHealthcareis equal toHealth insurance plans for individuals & families, employers, medicare | UnitedHealthcare
+2021-10-24 15:33:32,732 [main] INFO logger_file - user click on signIn
+2021-10-24 15:33:32,998 [main] INFO logger_file - user should see sign in to myuhc
+2021-10-24 15:33:37,235 [main] INFO logger_file - Sign in to myuhc PASSED
